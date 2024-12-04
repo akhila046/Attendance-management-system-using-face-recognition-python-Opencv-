@@ -46,6 +46,7 @@ Add images of known individuals into a folder named Dataset/.
 Each individual's images should be stored in a subfolder named after them. Example:
 markdown
 Copy code
+
 Dataset/
 ├── student_1/
 │   ├── image1.jpg
